@@ -36,3 +36,7 @@ They are samples, not production code. Replace the fixed `demo-user` with your o
 The code in these folders is the code printed on the docs pages. `scripts/check_docs_in_sync.py` compares them, and CI runs it on every push and weekly. If it fails, the docs or an example changed: update the other one (the docs source is `docs/content/recipes/` in the website repo).
 
 Using a coding agent? Install the [`integrate-screenlyyid` skill](https://github.com/ScreenlyyID/agent-skills) or give it https://www.screenlyyid.com/docs/llms-full.txt .
+
+## Licence
+
+[MIT](LICENSE)
