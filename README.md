@@ -1,6 +1,6 @@
 # ScreenlyyID examples
 
-Runnable back ends and a web page that add [ScreenlyyID](https://www.screenlyyid.com) identity verification to an app. ScreenlyyID (screenlyyid.com) is an identity verification, KYC and AML API. It is not related to Screenly (screenly.io).
+Runnable back ends and a web page that add [ScreenlyyID](https://www.screenlyyid.com) identity verification to an app. ScreenlyyID (screenlyyid.com) is an identity verification, KYC and AML API.
 
 Every example has the same two routes, taken from the [AI quickstart](https://www.screenlyyid.com/docs/ai-quickstart/):
 
