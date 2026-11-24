@@ -17,6 +17,7 @@ The API key and the `CorrelationId` never leave the server.
 | [`fastapi/`](fastapi) | Python 3.9+ and FastAPI | https://www.screenlyyid.com/docs/recipes/fastapi/ |
 | [`nextjs/`](nextjs) | Next.js 14 (App Router): route handlers and a page that embeds the hosted page in an iframe | https://www.screenlyyid.com/docs/recipes/nextjs/ |
 | iOS | Swift app and its own back end | https://github.com/ScreenlyyID/ios-sdk-example |
+| Android | Kotlin app and its own back end | https://github.com/ScreenlyyID/android-sdk-example |
 
 ## Run one
 
