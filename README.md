@@ -18,6 +18,7 @@ The API key and the `CorrelationId` never leave the server.
 | [`nextjs/`](nextjs) | Next.js 14 (App Router): route handlers and a page that embeds the hosted page in an iframe | https://www.screenlyyid.com/docs/recipes/nextjs/ |
 | iOS | Swift app and its own back end | https://github.com/ScreenlyyID/ios-sdk-example |
 | Android | Kotlin app and its own back end | https://github.com/ScreenlyyID/android-sdk-example |
+| Flutter | Dart app for iOS and Android, and its own back end | https://github.com/ScreenlyyID/flutter-sdk-example |
 
 ## Run one
 
